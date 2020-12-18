@@ -1,6 +1,6 @@
-# graphql-go-fasthttp-handler
+# graphql-go-fiber-handler
 
-Golang fasthttp for [graphl-go](https://github.com/graphql-go/graphql)
+Golang fiber handler for [graphl-go](https://github.com/graphql-go/graphql)
 
 ### Usage
 
@@ -9,7 +9,7 @@ package main
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/narendrayogi/fasthttp-graphql-handler"
+	"github.com/narendrayogi/fiber-graphql-handler"
 )
 
 func main() {
@@ -66,6 +66,6 @@ depending on the provided `Content-Type` header.
 ### Test
 
 ```bash
-$ go get github.com/narendrayogi/handler
+$ go get github.com/narendrayogi/fiber-graphql-handler
 $ go build && go test ./...
 ```

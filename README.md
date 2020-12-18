@@ -1,4 +1,4 @@
-# graphql-go-fiber-handler
+# fiber-graphql-handler
 
 Golang fiber handler for [graphl-go](https://github.com/graphql-go/graphql)
 

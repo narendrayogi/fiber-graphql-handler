@@ -9,7 +9,7 @@ package main
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/narendrayogi/handler"
+	"github.com/narendrayogi/fasthttp-graphql-handler"
 )
 
 func main() {
